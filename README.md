@@ -16,6 +16,8 @@ Powerful video download application
 [**Wiki3**](https://github.com/MustafaHi/Wiki3)  
 Web documentation single page application
 
+**+** [**Save Clip Image**](https://github.com/MustafaHi/Save-Clip-Image) | [**EPUB Reader**](https://github.com/MustafaHi/Epub-Reader) | [**MDView**](https://github.com/MustafaHi/sciter-js-sdk/tree/main/samples.sciter/applications.quark/mdview)
+
 #### Dev Apps
 
 [**Sciter Dev Tool Kit**](https://github.com/MustafaHi/Sciter-Dev-Tool-Kit)  
@@ -30,5 +32,8 @@ Code Experimentation Lab (app) for Sciter.JS/TIS code
   -  [**Botan**](https://github.com/MustafaHi/Sciter-Botan) native cryptography extension
   -  [**Tray Menu**](https://github.com/MustafaHi/Sciter-Tray)
   -  [**MovableView**](https://github.com/MustafaHi/Sciter-MovableView)
-
-And about 15 more not here :)
+  -  [**Intellisense**](https://github.com/MustafaHi/Sciter-VSCode) declarations
+- Node.JS
+  - [**CouchDB**](https://github.com/MustafaHi/auth-couchdb) NoSQL authentication server
+- React
+  - [**Native Samples**](https://github.com/MustafaHi/ReactNative-Samples)
