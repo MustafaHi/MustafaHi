@@ -5,10 +5,10 @@ List of github projects
 ### Apps
 
 [**Recast**](https://github.com/MustafaHi/Recast)  
-Desktop podcast app, with discover, playlists, download, subscriptions and more.
+Desktop podcast app, with discover, playlists, download, subscriptions, plus
 
 [**Betakat**](https://github.com/MustafaHi/Betakat)  
-(Anki like) Cross-platform Study (flashcards styled) application, create Decks(subjects) fill it with Cards(questions).
+Cross-platform Study application (Anki like), featuring subjects(Decks), QA, shuffle and full keyboard control
 
 [**xload**](https://github.com/MustafaHi/xload)  
 Powerful video download application
