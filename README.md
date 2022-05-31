@@ -32,7 +32,7 @@ Code Experimentation Lab (app) for Sciter.JS/TIS code
   -  [**Botan**](https://github.com/MustafaHi/Sciter-Botan) native cryptography extension
   -  [**Tray Menu**](https://github.com/MustafaHi/Sciter-Tray)
   -  [**MovableView**](https://github.com/MustafaHi/Sciter-MovableView)
-  -  [**Intellisense**](https://github.com/MustafaHi/Sciter-VSCode) declarations
+  -  [**Intellisense & VS Code Extension**](https://github.com/MustafaHi/Sciter-VSCode)
 - Node.JS
   - [**CouchDB**](https://github.com/MustafaHi/auth-couchdb) NoSQL authentication server
 - React
