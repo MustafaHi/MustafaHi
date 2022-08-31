@@ -38,4 +38,4 @@ Code Experimentation Lab (app) for Sciter.JS/TIS code
 - React
   - [**Native Samples**](https://github.com/MustafaHi/ReactNative-Samples)
 
-<img src='https://hit.yhype.me/github/profile?user_id=5108884' height='0' width='0' hidden='true'/>
+![](https://hit.yhype.me/github/profile?user_id=5108884)
